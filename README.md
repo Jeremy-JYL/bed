@@ -18,7 +18,7 @@ For Python/Micropython port
 `python3 ports/python/main.py`
 
 # Usage
-Just like BASIC interpreter, when you open it up it display a console, you can also use some file I/O command on BASIC interpreter such as LOAD and SAVE.
+Just like BASIC interpreter, when you open it up it display a console, you can use some file I/O command on BASIC interpreter such as LOAD and SAVE.
 
 Command List:
   1. LOAD - Load File, LOAD [FILE]
