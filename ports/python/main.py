@@ -1,6 +1,6 @@
 line_sep = 10
 
-print("BED - v0.0.1 - Python/Micropython")
+print("BED - v0.0.1 - Python")
 buffer = {}
 
 while True:
