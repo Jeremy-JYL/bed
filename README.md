@@ -13,7 +13,7 @@ For C port
 
 `cc ports/c/main.c -o bed`
 
-For Python port
+For Python port // EOL
 
 `python3 ports/python/main.py`
 
